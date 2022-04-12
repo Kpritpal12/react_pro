@@ -11,7 +11,7 @@ export const DataContext = (props) => {
             body : `An equable climate, beautiful and serene beaches, peaceful stretch of backwaters and canals, exotic wildlife and lush green hill stations are some of the main attractions of Kerala which make a wonderful place to visit.`,
             category : 'Tourism',
             date : `March 24, 2022`,
-            url : 'https://wallpaperaccess.com/full/1635201.jpg'
+            url : 'https://keralaconnections.co.uk/wp-content/uploads/2020/12/India-and-Kerala-Connection-Banner-image-backwaters.jpg'
         },
         {
             id : '2',
@@ -19,15 +19,15 @@ export const DataContext = (props) => {
             body : `It is known as the “Heart of India” because of a lot many things that it has to offer. It has been home to cultural and spiritual heritage of almost all the religions.`,
             category : 'Tourism',
             date : `March 24, 2022`,
-            url : 'https://gos3.ibcdn.com/india-madhya-pradesh-148408153806o.jpeg'
+            url : 'https://www.socialsamosa.com/wp-content/uploads/2020/08/2.jpg'
         },
         {
             id : '3',
-            title : 'Karnataka: One state Many Worlds',
+            title : 'Karnataka: Famous Culture',
             body : `Karnataka is primarily known for its Heritage destinations and its Wildlife/ National Parks. Apart from that, it is also famous for its magical hill stations and spectacular waterfalls.`,
             category : 'Tourism',
             date : `January 2, 2022`,
-            url : 'https://s3.india.com/travel/wp-content/uploads/2018/03/Karnataka-photo-21.jpg'
+            url : 'https://cdn.theculturetrip.com/wp-content/uploads/2017/10/karnataka-pattadakal.jpg'
         },
         {
             id : '4',
@@ -35,23 +35,23 @@ export const DataContext = (props) => {
             body : `A part of the Eastern Himalaya, Sikkim is notable for its biodiversity, including alpine and subtropical climates, as well as being a host to Kangchenjunga, the highest peak in India and third highest on Earth.`,
             category : 'Tourism',
             date : `March 14, 2022`,
-            url : 'https://assets.sentinelassam.com/h-upload/2021/06/20/1600x960_235747-sikkim.jpg'
+            url : 'https://nitsikkim.ac.in/img/home/nitsikkim.jpg'
         },
         {
             id : '5',
-            title : 'Punjab: India Begins Here',
+            title : 'Punjab:River of five land',
             body : `The Harmandir Sahib in Amritsar is the holiest site in Sikhism, and one of the most visited tourist attractions in India.`,
             category : 'Tourism',
             date : `February 24, 2022`,
-            url : 'https://cdn.britannica.com/45/84845-050-96697731/Harmandir-Sahib-Amritsar-India-Punjab.jpg'
+            url : 'https://www.adotrip.com/booking/extras/custom/TMX1512291534825461/images/6051f56232.jpg'
         },
         {
             id : '1',
             title : `Sweat now shine later`,
             body : `Weight training is a type of strength training that uses weights for resistance. Weight training provides a stress to the muscles that causes them to adapt and get stronger, similar to the way aerobic conditioning strengthens your heart.`,
             category : 'Fitness',
-            date : `January 22, 2022`,
-            url : 'https://images.pexels.com/photos/841130/pexels-photo-841130.jpeg?auto=compress&cs=tinysrgb&dpr=3&h=750&w=1260'
+            date : `February 22, 2022`,
+            url : 'https://www.prameyanews.com/wp-content/uploads/2021/12/photo-1521804906057-1df8fdb718b7.jpg'
         },
         {
             id : '2',
@@ -59,7 +59,7 @@ export const DataContext = (props) => {
             body : `Actively working to maintain and improve your balance and stability is incredibly important, especially as you age. Improving your balance can help you avoid falls and stay active and independent.`,
             category : 'Fitness',
             date : `March 22, 2022`,
-            url : `https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/complex-body-movement-royalty-free-image-941096852-1547665020.jpg?resize=480:*`
+            url : `https://m.media-amazon.com/images/I/71SsT-9CTLL._SX425_.jpg`
         },
         {
             id : '3',
@@ -67,7 +67,7 @@ export const DataContext = (props) => {
             body : `Activity that you do for more than a few minutes at a time is aerobic training. When you're doing this type of exercise, your body uses your aerobic energy system for power. And, because that metabolic system uses oxygen to help create energy, your breathing rate increases.`,
             category : 'Fitness',
             date : `January 22, 2022`,
-            url : `https://post.healthline.com/wp-content/uploads/2019/02/Male_Jump_Rope_Fitness-732x549-Thumbnail.jpg`,
+            url : `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqKL-T2bZrDTop9JdkvZt-Fqf2VoFkVZNMtQ&usqp=CAU`,
         },
         {
             id : '4',
@@ -77,21 +77,21 @@ export const DataContext = (props) => {
             date : `January 26, 2022`,
             url : `https://www.snackinginsneakers.com/wp-content/uploads/2020/07/Sprinting-vs-Jogging-2.jpg`,
         },
-        {
-            id : '5',
-            title : `Flexibility`,
-            body : `Possibly one of the most important types of fitness training is flexibility and mobility. Flexibility is the ability of your muscles to stretch. Mobility is being able to move your joints and tissues through their full range of motion`,
-            category : 'Fitness',
-            date : `January 26, 2022`,
-            url : `https://healthbeat.spectrumhealth.org/wp-content/uploads/2018/01/StretchMAIN.jpg`,
-        },
+        // {
+        //     id : '5',
+        //     title : `Flexibility`,
+        //     body : `Possibly one of the most important types of fitness training is flexibility and mobility. Flexibility is the ability of your muscles to stretch. Mobility is being able to move your joints and tissues through their full range of motion`,
+        //     category : 'Fitness',
+        //     date : `January 26, 2022`,
+        //     url : `https://healthbeat.spectrumhealth.org/wp-content/uploads/2018/01/StretchMAIN.jpg`,
+        // },
         {
             id : '1',
             title : `Cyber Security: Prevention is better than cure`,
             body : `Cyber security can be described as the collective methods, technologies, and processes to help protect the confidentiality, integrity, and availability of computer systems, networks and data, against cyber-attacks or unauthorized access.`,
             category : `Technology`,
             date : `January 1, 2022`,
-            url : `https://www.afnor.org/en/wp-content/uploads/sites/2/2017/03/20170303_webinar_cybersecurity.jpg`
+            url : 'https://assets.thehansindia.com/h-upload/2021/12/11/1131197-cyber-security.webp'
         },
         {
             id : '2',
@@ -106,8 +106,8 @@ export const DataContext = (props) => {
             title : `Artificial Intelligence (AI) & Machine Learning`,
             body : `Machine learning is the science that will take artificial intelligence to a level beyond what humans can do. ML is used to create AI systems that can learn from data rather than through programming. This will allow machines to adapt to new challenges over time.`,
             category : `Technology`,
-            date : `Sewptember 31, 2021`,
-            url : `	https://res.infoq.com/articles/problem-with-ai/en/headerimage/GettyImages-817293926-2.jpg`
+            date : `September 30, 2021`,
+            url : `	https://www.collegechalo.com/news/wp-content/uploads/2021/12/AIfea2.jpg`
         },
         {
             id : '4',
@@ -147,7 +147,7 @@ export const DataContext = (props) => {
             body : `Toofaan is a 2021 Bollywood sports-drama, helmed by Rakeysh Omprakash Mehra. The movie star Farhan Akhtar, Paresh Rawal and Mrunal Thakur in the lead roles. In Toofan, Farhan will be essaying the role of a boxer. The film is releasing on 16th July 2021 on OTT platform Amazon Prime.`,
             category : 'Bollywood',
             date : 'July 16, 2021',
-            url : 'https://images.indianexpress.com/2021/06/toofan-trailer-.jpg'
+            url : 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfdKKQK67XmgyU_8m9yl9FNUEHtMqxP_Rncg&usqp=CAU'
         },
         {
             id :'4',
@@ -167,11 +167,11 @@ export const DataContext = (props) => {
         },
         {
             id :'1',
-            title : `Chicken Tikka Masala`,
-            body : `Chicken tikka masala is a dish consisting of roasted marinated chicken chunks in spiced curry sauce. The curry is usually creamy and orange-coloured. The dish was popularized by cooks from the Indian subcontinent living in Great Britain and is offered at restaurants around the world.`,
+            title : `Chicken Kabab Masala`,
+            body : `Chicken Kabab masala is a dish consisting of roasted marinated chicken chunks in spiced curry sauce. The curry is usually creamy and orange-coloured. The dish was popularized by cooks from the Indian subcontinent living in Great Britain and is offered at restaurants around the world.`,
             category : 'Food',
             date : `January 29, 2022`,
-            url : `https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Karthika_Gopalakrishnan/Chicken_Tikka_Masala.jpg`,
+            url : `https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxCf3mTRyMMd2rEIOc-BbZNEkl3LeRhkA1zw&usqp=CAU`,
         },
         {
             id :'2',
@@ -187,7 +187,7 @@ export const DataContext = (props) => {
             body : `Paneer tikka is an Indian dish made from chunks of paneer marinated in spices and grilled in a tandoor. It is a vegetarian alternative to chicken tikka and other meat dishes. It is a popular dish that is widely available in India and countries with an Indian diaspora.`,
             category : 'Food',
             date : `January 29, 2022`,
-            url : `https://www.indianhealthyrecipes.com/wp-content/uploads/2021/07/paneer-tikka-restaurant-style.jpg`,
+            url : `https://www.archanaskitchen.com//images/archanaskitchen/1-Author/Neha_Mathur/Achari_Paneer_Tikka_Recipe_Party_Food.JPG`,
         },
         {
             id :'4',
@@ -203,7 +203,7 @@ export const DataContext = (props) => {
             body : `It is a delicious dish of fried balls of potato and paneer in a rich and creamy mild gravy made with sweet onions and tomatoes. Malai means cream and kofta are fried balls. So malai kofta literally translates to koftas dunked in a creamy sauce. It is a popular Indian vegetarian dish in which potato paneer balls are served with a delicious, smooth, rich & creamy gravy.`,
             category : 'Food',
             date : `January 29, 2022`,
-            url : `https://www.indianhealthyrecipes.com/wp-content/uploads/2018/07/malai-kofta-recipe.jpg`,
+            url : `https://www.carveyourcraving.com/wp-content/uploads/2021/09/Best-Malai-Kofta-recipe.jpg`,
         }
     ]);
 
